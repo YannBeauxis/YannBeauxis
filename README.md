@@ -1,7 +1,8 @@
 ### Hi there, I'm [Yann](http://pro.yannbeauxis.net) 👋
 
+<!--
 [![Yann's GitHub stats](https://github-readme-stats.vercel.app/api?username=YannBeauxis)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 
